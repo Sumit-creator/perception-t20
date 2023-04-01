@@ -1,5 +1,5 @@
 //mongodb url
-const mongourl="mongodb+srv://perceptioncet:Perceptiocet20@perception-erq0s.mongodb.net/test?retryWrites=true&w=majority";   //TODO:change the url while hosting
+const mongourl="mongodb+srv://sumit:perception2020@cluster0.hsehhvz.mongodb.net/?retryWrites=true&w=majority";   //TODO:change the url while hosting
 
 var mongoose = require("mongoose"),
     localMongoose = require("passport-local-mongoose");
